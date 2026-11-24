@@ -1,0 +1,1 @@
+import "./globals.css";export const metadata={title:"Apex Autohaus | Automotive Care",description:"Modern independent auto workshop for diagnostics, repairs, maintenance and detailing."};export default function RootLayout({children}){return <html lang="en"><body>{children}</body></html>}
